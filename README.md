@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there 👋, welcome welcome.
 
-<!--
-**nerdqueen/nerdqueen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ #My name is Hanna Gaby, I am a student of science computer.
+   💻 What am i learning now?
+      I am learning about html,css and javascript.
+      
+   📗 What I've learned?  
+      I learned a little bit of the C programming language.
+      
+   💡 What do I intend to learn next?
+      Something from the backend like mysql.
+      
+   👩‍💻And.. fun facts about me ?
+      My sign is pisces ♓, I love read 📖, and play video games 🎮.
