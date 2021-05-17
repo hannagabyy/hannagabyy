@@ -8,7 +8,7 @@
       - I learned a little bit of the C programming language.
       
    * 💡 What do I intend to learn next?
-     - Something from the backend like mysql.
+     - Something from the backend.
       
    * 👩‍💻And.. fun facts about me ?
      - My sign is pisces ♓, I love read 📖, and play video games 🎮.
