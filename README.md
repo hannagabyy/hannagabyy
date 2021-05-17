@@ -12,3 +12,6 @@
       
    * 👩‍💻And.. fun facts about me ?
      - My sign is pisces ♓, I love read 📖, and play video games 🎮.
+     
+   * 📲Where you can find me ?
+     - LinkdIn: https://www.linkedin.com/in/hannagsantos/
