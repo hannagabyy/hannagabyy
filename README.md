@@ -6,7 +6,7 @@
    - 📗 What I've learned?  
       - I learned a little bit of the C programming language.   
    - 💡 What do I intend to learn next?
-     - Something from the backend.   
+     - React js, Angular , Vue js   
    - 👩‍💻And.. fun facts about me ?
      - My sign is pisces ♓, I love read 📖, and play video games 🎮. 
   
