@@ -1,6 +1,6 @@
 ## Hi there 👋, welcome welcome.
 
-### My name is Hanna Gaby, I am a student of science computer.
+### My name is Hanna Gaby(She/Her), I am a student of science computer.
    - 💻 What am i learning now?
       - I am learning about html,css and javascript. 
    - 📗 What I've learned?  
