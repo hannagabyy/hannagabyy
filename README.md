@@ -4,7 +4,7 @@
    - 💻 What am i learning now?
       - I am learning about html,css and javascript. 
    - 📗 What I've learned?  
-      - I learned a little bit of the C programming language.   
+      - I learned a little bit of the C programming language,Python and Ruby.   
    - 💡 What do I intend to learn next?
      - React js, Angular , Vue js   
    - 👩‍💻And.. fun facts about me ?
