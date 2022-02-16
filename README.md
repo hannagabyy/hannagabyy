@@ -1,14 +1,12 @@
-## Hi there 👋, welcome welcome.
+## Olá 👋, bem vindo(a).
 
-### My name is Hanna Gaby(She/Her), I am a student of science computer.
-   - 💻 What am i learning now?
-      - I am learning about html,css and javascript. 
-   - 📗 What I've learned?  
-      - I learned a little bit of the C programming language,Python and Ruby.   
-   - 💡 What do I intend to learn next?
-     - React js, Angular , Vue js   
-   - 👩‍💻And.. fun facts about me ?
-     - My sign is pisces ♓, I love read 📖, and play video games 🎮. 
+### Meu nome é Hanna Gaby , Graduanda em Ciência da computação.
+   - 💻 Oque estou aprendendo agora??
+      - Estou aprendendo sobre desenvolvimento web. 
+   - 📗 Oque eu já estudei?  
+      - Um pouco de  C , Python e Ruby.   
+
+  
   
     
    <div align="center">
