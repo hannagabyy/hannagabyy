@@ -3,6 +3,11 @@
 ### Meu nome é Hanna Gaby , Graduanda em Ciência da computação.
    - 💻 Oque estou aprendendo agora??
       - Estou aprendendo sobre desenvolvimento web. 
+      - Html
+      - Css
+      - Javascript
+      - Jquery
+      - Mysql
    - 📗 Oque eu já estudei?  
       - Um pouco de  C , Python e Ruby.   
 
