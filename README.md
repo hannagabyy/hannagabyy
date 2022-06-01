@@ -6,7 +6,6 @@
       - Html
       - Css
       - Javascript
-      - Jquery
       - Mysql
    - 📗 Oque eu já estudei?  
       - Um pouco de  C , Python e Ruby.   
