@@ -1,6 +1,6 @@
 ## Olá 👋, bem vindo(a).
 
-### Meu nome é Hanna Gaby , Graduanda em Ciência da computação.
+### Meu nome é Hanna Gaby , Graduada em Ciência da computação.
    - 💻 Oque estou aprendendo agora??
       - Estou aprendendo sobre desenvolvimento web. 
       
